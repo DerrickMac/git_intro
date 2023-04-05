@@ -1,1 +1,2 @@
-"Derrick Macaranas" 
+Derrick Macaranas
+macarand@oregonstate.edu
